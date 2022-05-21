@@ -19,7 +19,7 @@
   </h1>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,java,linux,md,nginx,nodejs,py,vscode,react,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,java,linux,md,nginx,nodejs,py,vscode,react" />
   </a>
 </p>
 
