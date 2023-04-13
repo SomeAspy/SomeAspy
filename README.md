@@ -1,4 +1,4 @@
-<center>
+<p align="center">
   <h1>
     Hello!
     <br/>
@@ -9,14 +9,17 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SomeAspy&show_icons=true&theme=transparent&count_private=true&hide_border=true&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeAspy&layout=compact&theme=transparent&count_private=true&hide_border=true&langs_count=10"        
     media="(prefers-color-scheme: dark)"
   />
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeAspy&layout=compact&theme=transparent&count_private=true&hide_border=true&langs_count=10" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SomeAspy&show_icons=true&theme=transparent&count_private=true&hide_border=true&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeAspy&layout=compact&theme=transparent&count_private=true&hide_border=true&langs_count=10" />
 </picture>
 
 <p align="center">
@@ -36,4 +39,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33640860/149058683-8ca11612-6e8d-4a91-8a0f-ae9cf0cf02f6.png">
 </p>
-</center>
+</p>
