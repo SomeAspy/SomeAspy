@@ -34,6 +34,20 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,java,linux,md,nginx,nodejs,py,vscode,solidjs,autocad,cpp,cmake&perline=15" />
   </a>
+  
+  <h1>
+    Things I'm learning:
+  </h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,docker,githubactions,raspberrypi,vite&perline=15" />
+  </a>
+  
+  <h1>
+    Things I want to learn:
+  </h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ps,qt,rust,unreal,wasm,webpack,workers&perline=15" />
+  </a>
 </p>
 
 <p align="center">
