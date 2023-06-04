@@ -3,7 +3,7 @@
     Hello!
     <br/>
     <a href="https://aspy.dev">
-      Check out my website! https://aspy.dev
+      My website: aspy.dev
 
   </h1>
     <h1>
