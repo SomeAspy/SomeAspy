@@ -38,7 +38,7 @@
   </h1>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,java,linux,md,nginx,nodejs,py,vscode,solidjs,autocad,cpp,cmake&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,java,cloudflare,linux,md,nginx,nodejs,py,vscode,solidjs,autocad&perline=15" />
   </a>
   
   <h1>
