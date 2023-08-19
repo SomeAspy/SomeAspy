@@ -52,7 +52,7 @@
     Things I want to learn:
   </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ps,qt,rust,unreal,wasm,webpack,workers&perline=15" />
+    <img src="https://skillicons.dev/icons?i=go,ps,qt,rust,unreal,wasm,webpack,workers,cs,c.kubernetes,zig&perline=15" />
   </a>
 </p>
 
