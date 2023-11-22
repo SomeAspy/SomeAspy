@@ -38,14 +38,14 @@
   </h1>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,java,cloudflare,linux,md,nginx,nodejs,py,vscode,solidjs,autocad&perline=15" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,java,cloudflare,linux,md,nginx,nodejs,py,vscode,solidjs,autocad,vite&perline=15" />
   </a>
   
   <h1>
     Things I'm learning:
   </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,githubactions,raspberrypi,vite&perline=15" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,githubactions,raspberrypi,git&perline=15" />
   </a>
   
   <h1>
