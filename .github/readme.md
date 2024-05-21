@@ -14,19 +14,24 @@
 
 ### I'm proficient in
 
-![Logos of Typescript, Javascript, HTML, CSS, Cloudflare, Linux, Markdown, NodeJS, Visual Studio Code, SolidJS, Vite and GitHub](https://skillicons.dev/icons?i=ts,js,html,css,cf,linux,md,nodejs,vscode,solidjs,vite,github)
+![Logos of Typescript, Javascript, HTML, Cloudflare, Linux, Markdown, NodeJS, Visual Studio Code, SolidJS, Vite, GitHub, and DiscordJS](https://skillicons.dev/icons?i=ts,js,html,cf,linux,md,nodejs,vscode,solidjs,vite,github,discordjs)
 
 ### I understand and can use
 
-![Logos of C++, NGinx, Python, AutoCAD, Docker, Bash, Github Actions, Git, Gitlab, and Mongo DB](https://skillicons.dev/icons?i=cpp,nginx,autocad,docker,bash,ghactions,git,gitlab,mongodb)
+![Logos of C++, CSS, NGinx, Python, AutoCAD, Docker, Bash, Github Actions, Git, Gitlab, and Mongo DB](https://skillicons.dev/icons?i=cpp,css,nginx,autocad,docker,bash,ghactions,git,gitlab,mongodb)
 
 ### I can somewhat understand
 
-![Logos of Java and Python](https://skillicons.dev/icons?i=java,py)
+![Logos of Java, Python, and RegEx](https://skillicons.dev/icons?i=java,py,regex)
 
 ### I want to learn
 
-![Logos of Go, Photoshop, QT, Rust, Unreal Engine, WASM, Cloudflare Workers, C#, C, Kubernetes, Zig, and PHP](https://skillicons.dev/icons?i=go,ps,qt,rust,unreal,wasm,workers,cs,c,kubernetes,zig,php)
+![Logos of Go, Photoshop, QT, Rust, Unreal Engine, WASM, Cloudflare Workers, C#, C, Kubernetes, Zig, PHP, and Kotlin](https://skillicons.dev/icons?i=go,ps,qt,rust,unreal,wasm,workers,cs,c,kubernetes,zig,php,kotlin)
+
+### I love
+
+![Logos of Arch, Typescript, Discord, GitHub, Linux, Debian, SolidJS, VSCode](https://skillicons.dev/icons?i=arch,ts,discord,github,linux,debian,solidjs,vscode)
+
 
 ## My Stats
 
