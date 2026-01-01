@@ -1,7 +1,5 @@
 # SomeAspy - Aiden
 
-> I see you've taken an interest in my GitHub profile!
-
 ## Perhaps you want to check out my websites?
 
 - ### [Aspy.dev](https://aspy.dev) - Personal Website - [Source Code](https://github.com/SomeAspy/Aspy.dev)
@@ -26,7 +24,7 @@
 
 ### I want to learn
 
-![Logos of Go, Photoshop, QT, Rust, Unreal Engine, WASM, Cloudflare Workers, C#, C, Kubernetes, Zig, PHP, and Kotlin](https://skillicons.dev/icons?i=go,ps,qt,rust,unreal,wasm,workers,cs,c,kubernetes,zig,php,kotlin)
+![Logos of Go, QT, Rust, Unreal Engine, WASM, Cloudflare Workers, C#, C, Kubernetes, Zig, PHP, and Kotlin](https://skillicons.dev/icons?i=go,qt,rust,unreal,wasm,workers,cs,c,kubernetes,zig,php,kotlin)
 
 ### I love
 
