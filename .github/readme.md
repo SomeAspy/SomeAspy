@@ -1,10 +1,10 @@
-# My sites
+### [Aspy.dev](https://aspy.dev) - Personal Website - [Source Code](https://github.com/SomeAspy/Aspy.dev)
 
-- ### [Aspy.dev](https://aspy.dev) - Personal Website - [Source Code](https://github.com/SomeAspy/Aspy.dev)
+### [My Blog](https://blog.aspy.dev)
 
-- ### [My Blog](https://blog.aspy.dev)
+### [DuckDuckNo.com](https://duckduckno.com) - Silly Search Engine - [Source Code](https://github.com/SomeAspy/DuckDuckNo)
 
-- ### [DuckDuckNo.com](https://duckduckno.com) - Silly Search Engine - [Source Code](https://github.com/SomeAspy/DuckDuckNo)
+---
 
 ### Things I love
 
