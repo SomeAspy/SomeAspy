@@ -4,7 +4,7 @@
 
 - ### [My Blog](https://blog.aspy.dev)
 
-- ## [DuckDuckNo.com](https://duckduckno.com) - Silly Search Engine - [Source Code](https://github.com/SomeAspy/DuckDuckNo)
+- ### [DuckDuckNo.com](https://duckduckno.com) - Silly Search Engine - [Source Code](https://github.com/SomeAspy/DuckDuckNo)
 
 ### Things I love
 
