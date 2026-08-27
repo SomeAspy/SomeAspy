@@ -14,7 +14,7 @@ I hate AI. Using AI to create software leaves me feeling unfufilled, and like I 
 
 If I don't understand the snippet, I don't use it. If I must copy-paste code, I copy it by hand.
 
-I've recently taken to using [Gram](https://gram-editor.com/) over VSCodium. It's not perfect but feels really nice.
+I've recently taken to using ~~[Gram](https://gram-editor.com/)~~ Zed over VSCodium. As much as I love Grams's open source policies, I really don't want to compile extensions from source.
 
 ---
 
